@@ -1,4 +1,4 @@
-🐾 Lost
+#🐾 Lost
 An emotional and immersive journey of survival and exploration.
 
 📢 Note on Access to Materials
